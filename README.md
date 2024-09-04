@@ -5,7 +5,11 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+修过基站,发过电;
+爬过铁塔,放过线;
+卖过号卡,驻过店;
+跑过客户,陪过笑;
+如今漂洋又过海,人生真是好无奈
 <!---
 Richasun-AI/Richasun-AI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
