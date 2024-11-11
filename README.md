@@ -4,7 +4,7 @@
 </div>
 
 <!-- 标题部分 -->
-<h1 align="center">👨‍💻 通信漂流记</h1>
+<h1 align="center">👨‍💻 简称，漂流记</h1>
 
 <div align="center">
   
@@ -35,32 +35,31 @@
 - 🌏 跨境通信服务
 
 ### 📊 我的 GitHub 统计
-![GitHub统计](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&locale=cn)
+![GitHub统计](https://github-readme-stats.vercel.app/api?username=Richasun-AI&show_icons=true&theme=radical&locale=cn)
 
 ### 🗂️ 精选项目
 
-- 🚀 [项目一] - 基站维护管理系统
-- 📊 [项目二] - 通信工程数据分析
-- 🔧 [项目三] - 通信设备监控平台
+- 🚀 [项目一] - 海外学习与工作系统
+- 📊 [项目二] - 移动通信采样系统
+- 🔧 [项目三] - ing
 
 ### 📫 联系我
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [您的领英主页]
+- 📧 Email: richmanasun@gmail.com
 - 📱 WeChat: [您的微信号]
 
 ### 🌱 近期目标
 
 ```javascript
 const goals = {
-  技术: ["深入学习5G技术", "探索物联网应用"],
-  职业: ["扩展国际视野", "提升项目管理能力"],
-  个人: ["工作与生活平衡", "持续学习成长"]
+  技术: ["那些新遇到的"],
+  职业: ["不懂吧，还瞎整"],
+  个人: ["工作与生活如果不能平衡，那就让它失衡"]
 };
 ```
 
 <div align="center">
   
-  ***从基站到跨海，每一步都是成长***
+  ***从祖国妈妈的怀抱跨海到别人妈妈的怀抱，我就一直在欺负别人妈妈的孩子，每一步都是成长***
   
 </div>
