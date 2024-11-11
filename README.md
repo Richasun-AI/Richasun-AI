@@ -19,20 +19,25 @@
 </div>
 
 <!-- 技能图标 -->
+</div>
+<!-- 技能图标 - 通信基础 -->
 <div align="center">
   <img src="https://img.shields.io/badge/-5G-red?style=flat-square&logo=5g&logoColor=white" />
   <img src="https://img.shields.io/badge/-4G-blue?style=flat-square&logo=4g&logoColor=white" />
   <img src="https://img.shields.io/badge/-通信工程-green?style=flat-square&logo=antenna&logoColor=white" />
   <img src="https://img.shields.io/badge/-基站维护-orange?style=flat-square&logo=tower&logoColor=white" />
 </div>
+<!-- 技能图标 - 高科技领域 -->
+<div align="center">
+  <img src="https://img.shields.io/badge/-人工智能-purple?style=flat-square&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-大语言模型-blue?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-无人机-gray?style=flat-square&logo=drone&logoColor=white" />
+  <img src="https://img.shields.io/badge/-物联网-teal?style=flat-square&logo=iot&logoColor=white" />
+  <img src="https://img.shields.io/badge/-云计算-cyan?style=flat-square&logo=cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-边缘计算-darkblue?style=flat-square&logo=edge&logoColor=white" />
+</div>
 
-### 🔧 专业技能
 
-- 📡 基站建设与维护
-- 🗼 通信铁塔施工管理
-- 📱 移动通信业务
-- 👥 客户关系管理
-- 🌏 跨境通信服务
 
 ### 📊 我的 GitHub 统计
 ![GitHub统计](https://github-readme-stats.vercel.app/api?username=Richasun-AI&show_icons=true&theme=radical&locale=cn)
