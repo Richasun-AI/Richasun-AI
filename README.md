@@ -11,8 +11,8 @@
 <div align="center" style="background: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8f00ff);">
   <!-- <span style="color: #FF0000">修过基站</span>，<span style="color: #FF7F00">发过电</span>；<br/>
   <span style="color: #FFFF00">爬过铁塔</span>，<span style="color: #00FF00">放过线</span>；<br/>
-  <span style="color: #0000FF">卖过号卡</span>，<span style="color: #4B0082">驻过店</span>；<br/> -->
-  <span style="color: #8F00FF">跑过客户</span>，<span style="color: #FF1493">陪过笑</span>；<br/>
+  <span style="color: #0000FF">卖过号卡</span>，<span style="color: #4B0082">驻过店</span>；<br/> 
+  <span style="color: #8F00FF">跑过客户</span>，<span style="color: #FF1493">陪过笑</span>；<br/>-->
   <span style="color: #FF69B4">如今漂洋又过海</span>，<span style="color: #FF4500">人生真是好无奈</span>
 </div>
 
