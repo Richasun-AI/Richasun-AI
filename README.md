@@ -48,7 +48,7 @@
 
 ### 📫 联系我
 
-- 📧 Email: richmanasun@gmail.com
+- 📧 Email: si@gmail.com
 
 ### 🌱 近期目标
 
